@@ -1,2 +1,2 @@
 
-document.writ("Hello Wordl !");
+document.write("Hello Wordl !");
