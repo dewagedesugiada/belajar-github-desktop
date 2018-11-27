@@ -1,3 +1,3 @@
 var a = "hallo Wordl" ;
 
-document.Write(a) ;
+document.write(a) ;
